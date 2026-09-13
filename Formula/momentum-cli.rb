@@ -1,9 +1,8 @@
 # Homebrew formula for momentum-cli.
 #
-# Tap checkout is still github.com/ydderd/homebrew-flywheel until the remote is renamed to
-# homebrew-momentum. Customers then install with:
+# Tap: github.com/momentum-research-labs/homebrew-momentum. Customers install with:
 #
-#     brew install ydderd/momentum/momentum-cli
+#     brew install momentum-research-labs/momentum/momentum-cli
 #
 # `url`/`sha256`/resources are filled by cli/scripts/release.sh after publishing
 # ydderd-momentum-cli to PyPI. Until then this formula is not installable via brew —
