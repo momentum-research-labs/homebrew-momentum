@@ -15,9 +15,9 @@ class MomentumCli < Formula
   desc "Authenticate and bulk-upload field data to your Momentum workspace"
   homepage "https://momentumbots.io"
   # release.sh replaces the two PLACEHOLDER lines with the PyPI sdist URL + sha256.
-  url "https://files.pythonhosted.org/packages/75/18/aceb8cb1b542adc98a06c78b6baefcf119035f0a501997585a3bdc5fef7d/ydderd_momentum_cli-0.15.0.tar.gz"
-  version "0.15.0"
-  sha256 "64d6b16d289092dbe8c2f93867c73d3cc3753516dd9e6ce68281846ed216b558"
+  url "https://files.pythonhosted.org/packages/84/a3/45db49c663410af05100cd3a09d4fce509bebcfe1125a3642cb8ca035533/ydderd_momentum_cli-0.16.0.tar.gz"
+  version "0.16.0"
+  sha256 "1033996b02b4e10bcf8c11ceab261d9650f98cb60a14fdb11fbe845c3a40ae23"
   license "Apache-2.0"
 
   depends_on "python@3.12"
